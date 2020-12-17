@@ -4,6 +4,6 @@ Chức năng phần mềm:
 
 - Chức năng làm thêm:
 +Thống kê công việc
-+Tìm kiếm theo tên
++Tìm kiếm 
 
 Link demo: https://www.youtube.com/watch?v=jW_p3YJYa1M
